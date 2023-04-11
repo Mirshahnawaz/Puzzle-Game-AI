@@ -1,0 +1,8 @@
+Step #1:
+Install pillow module by writing the following command on terminal "pip install pillow"
+Step #2:
+Choose the path in which you want to apply search algorithm there are two paths available "puzzle1.txt" and "puzzle2.txt"
+Step #3: (if you want to select puzzle1.txt path)
+write command on terminal in the current directory "python puzzle.py puzzle1.txt"
+step #4: (if you want to select puzzle2.txt path)
+write command on terminal in the current directory "python puzzle.py puzzle2.txt"
